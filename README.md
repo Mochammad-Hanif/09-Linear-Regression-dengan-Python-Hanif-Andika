@@ -1,1 +1,2 @@
-# 09-Linear-Regression-dengan-Python-Hanif-Andika
+#MOCHAMMAD HANIF : 24523034
+#W.ANDIKA ADITAMA : 24523064
